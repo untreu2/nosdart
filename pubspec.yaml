@@ -10,6 +10,7 @@ dependencies:
   convert: ^3.1.2
   crypto: ^3.0.6
   nostr: ^1.5.0
+  nostr_tools: ^1.0.9
 
 dev_dependencies:
   lints: ^3.0.0
